@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InClassAssignment_MC</string>
+    <string name="display">Display Here</string>
+    <string name="login">Log In:</string>
+    <string name="hint">Type Here...</string>
+    <string name="send">Send </string>
+    <string name="logOut">Log Out</string>
+    <string name="email">Email/Username</string>
+    <string name="pass">Password</string>
+    <string name="signUp">Sign Up</string>
+</resources>
